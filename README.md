@@ -4,7 +4,7 @@ This CLI generates emails using OpenAI's GPT. It prompts the user for informatio
 
 ## Setup
 1. Clone the Repository
- git clone <repository-url>
+git clone repository-url
 
 2. Install Dependencies
 npm install
@@ -14,7 +14,7 @@ Create a .env file in the root of your project directory
 API_KEY="" <---add your APIKEY here
 
 4. Run the Script
-run in terminal: node <script-file-name>.js
+run in terminal: node script-file-name.js
 
 
 
