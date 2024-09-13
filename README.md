@@ -1,4 +1,5 @@
-# codeChallenge
+# Code Challenge 
+-By Jaewon Kim
 
 This CLI generates emails using OpenAI's GPT. It prompts the user for information about a company and its CEO, then creates a tailored email for them.
 
